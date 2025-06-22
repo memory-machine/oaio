@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing
+title: Memory
 ---
 {% include utilities.html %}
 {% include machina.html %}

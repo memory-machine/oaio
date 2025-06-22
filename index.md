@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Writing Machine
+title: Memory Machine
 ---
-# Writing Machine
+# Memory Machine
 
 <br>
 Go directly to the [Dialogue Page](/oaio/machine) its [Thoughts Page](/oaio/thoughts) or change and submit the settings.
