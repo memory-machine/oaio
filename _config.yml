@@ -6,16 +6,16 @@ relative_links:
 include:
   - README.md
   - LICENSE.md
-url: https://thingking-machine.github.io
+url: https://memory-machine.github.io
 baseurl: /oaio
 
-title: Thingking Machine
+title: Memory Machine
 description: A machine is a thing. Things can not think. ...but some of them can thingk!
 
 machine:
-  name: Thingking-Machine
-  verb: Thingking
-  instructions_file: thingking.md
+  name: Memory-Machine
+  verb: Memory
+  instructions_file: memory.md
   token: openai
   server: https://localhost:443
   apiUrl: https://api.openai.com/v1/responses
@@ -24,15 +24,15 @@ app:
   worker_name: oaioapi.js
 
 lm:
-  model: gpt-5.1
+  model: gpt-5.2
   max_output_tokens: 100000
   reasoning_effort: high
   reasoning_summary: detailed
   temperature: 1.0
 
 github_settings:
-  owner: thingking-machine
-  repo: thingking_machine
+  owner: memory-machine
+  repo: memory_machine
   file_name: machina.yaml
   branch: main
   token_file: github.txt
